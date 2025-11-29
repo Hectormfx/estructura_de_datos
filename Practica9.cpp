@@ -219,7 +219,7 @@ void liberarArbol(Nodo* &raiz) {
     raiz = nullptr;
 }
 
-// ===============================
+// ==============================
 // Programa principal
 // ===============================
 int main() {
